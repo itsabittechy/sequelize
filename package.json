@@ -1,0 +1,26 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsabittechy/sequelize.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsabittechy/sequelize/issues"
+  },
+  "homepage": "https://github.com/itsabittechy/sequelize#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  },
+  "dependencies": {
+    "sequelize": "^6.19.0",
+    "sqlite3": "^5.0.8"
+  }
+}
